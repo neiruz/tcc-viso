@@ -1,0 +1,45 @@
+ul
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 12px;
+
+}
+
+nav
+{
+    max-width: 1200px;
+    margin: auto;
+    padding: 1px;
+    background-color: #d3c6d8;
+
+}
+
+header
+{
+    width: 100%;
+    background-color:  #d3c6d8;
+    
+}
+
+main
+{
+    background-color: #d3c6d8;
+}
+
+.banner 
+{
+   background-image: url(../img/6659699d-8eaa-4753-9e6b-458b6559b8b8.jpeg); 
+   height: 705px;
+   background-repeat: no-repeat;
+   width: 100%;
+   margin: auto;
+   max-width: 1200px;
+
+}
+
+
+
+
+

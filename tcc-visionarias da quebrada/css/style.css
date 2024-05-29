@@ -1,0 +1,20 @@
+@import url("banner.css");
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body
+{
+    width: 100%;
+}
+
+
+.agendamento
+{
+    
+    justify-content: center;
+    
+}
